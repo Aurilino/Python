@@ -1,19 +1,13 @@
-Strategy using spread between near and far futures with one asset in the basis
+Analysis of us technology companies
 
 ==============================================================================
-
-INSTALLATION
-------------
-
-Just run .Rmd file.
-In scripn needs specify the directory where you work 
-
 
 REQUIREMENTS
 ------------
 
 Python 3.7 and hidher
-RStudio 1.1.463 and hidher
+Jupyter notebook
+
 
 Packeges:
 os - for working directory
@@ -22,5 +16,7 @@ numpy - for work with numbers
 matplotlib.pyplot - for plots
 pandas_datareader - for ead data from internet
 
-Any comments and suggestions are welcome auriliano@live.com.
+This notebook presents an analysis of the ten largest and 
+the least capitalized companies in the technology sector
 
+Any comments and suggestions are welcome auriliano@live.com.

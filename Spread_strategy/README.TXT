@@ -1,6 +1,6 @@
 <README>
 
-Attempt to predict future prices on the futures MICEX index use Decision Tree
+Strategy using spread between ordinary and preferred shares
 ==============================================================================
 
 The calculations are performed at the jupiter notebook using Python 3.7

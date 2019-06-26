@@ -13,7 +13,7 @@ Necessary package:
 4) seaborn for more graphics
 5) requests for get data from website
 
-Usd data will get from moex.com (Moscow Exchange site)
+Used data get from QUIK
 ==============================================================================
 
 Any comments and suggestions are welcome auriliano@live.com.
